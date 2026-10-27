@@ -1,0 +1,1 @@
+C:/Automation/AI/app_mcp_demo/.github/copilot-instructions.md
